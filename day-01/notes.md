@@ -1,4 +1,4 @@
-# Day 1 — 01 Dec 2025
+# Day 1 - 01 Dec 2025
 
 ### 📌 Summary
 - Repo setup & structure planning
