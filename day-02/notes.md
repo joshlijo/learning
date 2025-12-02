@@ -1,4 +1,4 @@
-DSA: Started the day off with just theory, learnt about how memory is stored in RAM, learnt all about static and dynamic arrays, time complexity for operations in these arrys and also learnt about stacks. 
+DSA: Started the day off with just theory, learnt about how memory is stored in RAM, learnt all about static and dynamic arrays, time complexity for operations in these arrays and also learnt about stacks. 
 No code just yet, just theory, I'm not sure if this is the right approach but this is what I am doing.
 
 ML: Then I swtiched over to learning Linear Algebra, practiced scalar multiplication, adding vectors in magnitude and direction form, parametric representation of lines, linear combination & span, linear independence
